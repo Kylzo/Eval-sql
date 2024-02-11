@@ -42,7 +42,7 @@ mysql -h localhost -u root -p < requetes.sql
 
 | MCD | MLD |
 |-----|-----|
-| ![MCD](https://kylzo.github.io/Eval sql/images/MCD.png) | ![MLD](https://kylzo.github.io/Eval sql/images/MLD.png) |
+| ![MCD](https://kylzo.github.io/EvalSQL/images/MCD.png) | ![MLD](https://kylzo.github.io/EvalSQL/images/MLD.png) |
 
 ## Remarques
 
