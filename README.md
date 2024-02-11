@@ -40,9 +40,7 @@ mysql -h localhost -u root -p < requetes.sql
 
 ### Modèle relationnel de données
 
-| MCD | MLD |
-|-----|-----|
-| ![MCD](https://kylzo.github.io/EvalSQL/images/MCD.png) | ![MLD](https://kylzo.github.io/EvalSQL/images/MLD.png) |
+Voir images
 
 ## Remarques
 
